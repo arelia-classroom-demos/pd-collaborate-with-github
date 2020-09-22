@@ -18,5 +18,5 @@ original
 >>>>>>> original-branch
 ```
 
-Delete the lines with <<<, >>>, and ===. Edit the changes so that the final result includes your city but doesn't remove anyone else's city.
+Delete the lines with <<<, >>>, and ===. Edit the changes so that the final result includes your city but doesn't remove anyone else's city.  
 6. Once you have completed your pull request, wait for the facilitator to approve your changes and "pull" them into the original repository.
