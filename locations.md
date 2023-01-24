@@ -1,3 +1,3 @@
-# Where are we all from? 🌏
+# Where are we all from in the Galaxy?
 
 I am from ...
