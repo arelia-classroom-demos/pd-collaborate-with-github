@@ -1,0 +1,14 @@
+Hi Cedric. I'm not sure whether I could send this over email, so I've created this file to register some questions for next week. 
+Best. Marcos.
+
+**Classroom:** I have the following situation/flow:
+* assignment set up on Classroom, with invitation link sent to students.
+* all submissions are downloaded through Classroom Assistant to a local folder.
+* I need to split the submissions into 2 (or 3) batches, to be marked independently by different people.
+* Each marker will produce a `feedback.md` file or will work on specific questions in a shared `feedback.md` file. 
+This feedback file is *provisional*: it will have breakdown marks and comments to be shared only amongst markers.
+* Once we agree on final marks etc, we need a second `feedback.md` file (with no breakdown marks or comments) to the sent (push back) to the students.
+* Question is: **how to automate this process in a way that I can generate this provisional feedback file without disclosing it to the students, 
+and then push back the final feedback file to the students' repos?** Usually, we do some manual copies of students' submissions, so we can work on 
+provisional files before producing the official/final feedback - but, of course, this is Jurassic method :).
+* I found some papers or tutorials with scripts to circumvent that, but none of them work well.
