@@ -1,2 +1,2 @@
-# Where are we all from in the Universe? 🌏
-London, UK (lucky me!)
+# Where are we all from in the wold? 🌏
+London, UK (sadly)
