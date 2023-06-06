@@ -1,2 +1,2 @@
-# Where are we all from? 🌏
+# Where are we all from in the wold? 🌏
 London, UK (sadly)
